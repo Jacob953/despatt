@@ -1,19 +1,19 @@
-# 发送
+# Despatt
 
-> Vernacular Design Patterns 28 Lectures 由 Go 实现
+> Go 实现白话设计模式 28 讲
 
 [English](README.md) | 简体中文
 
 - [Despatt](#despatt)
-   - [介绍](#introduction)
-   - [构建](#build)
-   - [许可证](#license)
+  - [介绍](#介绍)
+  - [建造](#建造)
+  - [许可证](#许可证)
 
 ## 介绍
 
 Despatt 主要介绍了 19 种常用的开发设计模式。
-此外，它包含不同语言的主题。
-- [ ] 简体中文
+此外，它包含不同编程语言的实现：
+- [ ] Golang
 
 ## 建造
 

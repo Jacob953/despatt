@@ -11,9 +11,9 @@ English | [简体中文](README-zh.md)
 
 ## Introduction
 
-Despatt mainly introduce 19 commonly used design patterns for development. 
-Besides, it contains topics in different languages.
-- [ ] Chinese-simplify
+Despatt mainly introduces 19 commonly used design patterns for development. 
+Besides, it contains implements in different programming languages.
+- [ ] Golang
 
 ## Build
 
