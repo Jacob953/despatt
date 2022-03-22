@@ -12,7 +12,7 @@
 
 ## 介绍
 
-Despatt主要参考 [人人皆知设计模式：如何从日常生活中理解设计模式](https://gitbook.cn/gitchat/column/5b26040ac81ac568fcf64ea3)，
+Despatt 主要参考 [《人人皆知设计模式：如何从日常生活中理解设计模式》](https://gitbook.cn/gitchat/column/5b26040ac81ac568fcf64ea3)，
 其中介绍了：
 - 19 种常用的开发设计模式，其余 4 种很少使用的设计模式
 - 基本设计模式的推导，以及重要且通用的编程机制
