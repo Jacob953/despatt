@@ -31,7 +31,7 @@ Despatt 主要参考 [《人人皆知设计模式：如何从日常生活中理�
 
 ## 贡献
 
-<p align="center"><b>请在直接拉取请求之前提出您的 issue ！</b></p>
+<p align="center"><b>请在直接 PR 之前提出您的 issue ！</b></p>
 
 欢迎贡献，包括但不限于以下形式：
 
