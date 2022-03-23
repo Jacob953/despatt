@@ -31,7 +31,7 @@ Welcome to contribute Despatt with implements of different programming languages
 
 ## Contribution
 
-<center><b>Please make your issue before pulling requests directly!</b></center>
+<p align="center"><b>Please make your issue before pulling requests directly!</b></p>
 
 Contributions including but not limited to the following forms are welcome.
 1. Translate to a different language
@@ -43,8 +43,11 @@ Contributions including but not limited to the following forms are welcome.
 **Attention**
 
 If you're going to add a new programming language, follow the rules.
-1. Make sure your issue has been read and approved.(In which, I'll create a new branch for your contribution)
-2. Create a new folder as the same level with `global`, and name the folder with the new language, like `c++`
+1. Make sure your issue has been read and approved. (After that, I'll create a new branch for your contribution, like `dev-go`)
+2. Create a new folder at the same level with `global`, and name the folder with the new language, like `go`
+3. Copy the struct of folders from `global` to your new folder, like `go`
+4. Push your commits to specific branch, like `dev-go`
+5. Merge into branch `develop`, rather than `main`
 
 ## License
 
