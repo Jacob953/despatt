@@ -19,9 +19,18 @@ which introduces:
 - Derivation of basic design patterns, as well as important and common programming mechanism
 - Experience and opinions on design principles, design patterns, and project reconstruction from [Luo Weifu](https://github.com/luoweifu)
 
+More importantly, I recommend that you read some specific articles, depending on your language, before you read the entire content.
+- Go
+  - Simple-example mode
+  - Factory mode
+  - Strategy mode
+  - Module mode
+  - Proxy mode
+  - Option mode
+
 Welcome to contribute Despatt with implements of different programming languages, such as Java, C++, Rust, JavaScript, and ...
 - [x] Python(default) - [luoweifu/PyDesignPattern](https://github.com/luoweifu/PyDesignPattern)
-- [ ] Golang
+- [ ] Go
 
 ## Content
 
