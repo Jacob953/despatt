@@ -36,7 +36,7 @@ Welcome to contribute Despatt with implements of different programming languages
 Contributions including but not limited to the following forms are welcome.
 1. Translate to a different language
 2. Add a new programming language
-3. Fix typos or UMLs
+3. Fix typos or mistakes
 4. Tell me your expectations
 5. ......
 
