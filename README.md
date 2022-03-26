@@ -21,7 +21,7 @@ which introduces:
 
 More importantly, I recommend that you read some specific articles, depending on your language, before you read the entire content.
 - Go
-  - Simple-example mode
+  - Singleton mode
   - Factory mode
   - Strategy mode
   - Module mode
