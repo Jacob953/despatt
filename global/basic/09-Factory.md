@@ -224,7 +224,6 @@ class PenFactory:
         # 否则直接返回字典中的对象
         return self.__pens[penType]
 ```    
-    
 
 测试代码：
 ```Python
