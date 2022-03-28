@@ -1,4 +1,4 @@
-package main
+package v1
 
 import (
 	"fmt"
@@ -51,15 +51,15 @@ func (dm *DrinkingMode) update(wh *WaterHeater) {
 	}
 }
 
-func main() {
-	heater := WaterHeater{
-		temperature: 25,
-	}
-	washingObser := WashingMode{}
-	drinkingObser := DrinkingMode{}
-	heater.addObserver(&washingObser)
-	heater.addObserver(&drinkingObser)
-	heater.setTemperature(40)
-	heater.setTemperature(60)
-	heater.setTemperature(100)
-}
+// func main() {
+// 	heater := WaterHeater{
+// 		temperature: 25,
+// 	}
+// 	washingObser := WashingMode{}
+// 	drinkingObser := DrinkingMode{}
+// 	heater.addObserver(&washingObser)
+// 	heater.addObserver(&drinkingObser)
+// 	heater.setTemperature(40)
+// 	heater.setTemperature(60)
+// 	heater.setTemperature(100)
+// }
