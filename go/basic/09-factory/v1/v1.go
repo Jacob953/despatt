@@ -11,11 +11,12 @@ type Latte struct {
 	taste string
 }
 
-func (this *Latte) getTaste() {
-	fmt.Println("轻柔而香醇。")
+func (lt *Latte) getTaste() {
+	lt.taste = "轻柔而香醇。"
+	fmt.Println(lt.taste)
 }
 
-func (this *Latte) getName() string {
+func (lt *Latte) getName() string {
 	return "Latte"
 }
 
@@ -23,11 +24,12 @@ type Mocha struct {
 	taste string
 }
 
-func (this *Mocha) getTaste() {
-	fmt.Println("丝滑与醇厚。")
+func (mc *Mocha) getTaste() {
+	mc.taste = "丝滑与醇厚。"
+	fmt.Println(mc.taste)
 }
 
-func (this *Mocha) getName() string {
+func (mc *Mocha) getName() string {
 	return "Mocha"
 }
 
@@ -46,3 +48,12 @@ func CoffeMaker(coffebean int) Coffe {
 	}
 	return coffe
 }
+
+// func main() {
+// 	latte := CoffeMaker(LATTE)
+// 	latte.getName()
+// 	latte.getTaste()
+// 	mocha := CoffeMaker(MOCHA)
+// 	mocha.getName()
+// 	mocha.getTaste()
+// }
