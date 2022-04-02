@@ -28,9 +28,10 @@ More importantly, I recommend that you read some specific articles, depending on
   - Proxy mode
   - Option mode
 
-Welcome to contribute Despatt with implements of different programming languages, such as Java, C++, Rust, JavaScript, and ...
+Welcome to contribute Despatt with implements of different programming languages, such as Java, C++, Rust, and ...
 - [x] Python(default) - [luoweifu/PyDesignPattern](https://github.com/luoweifu/PyDesignPattern)
-- [ ] Go
+- [ ] Go - @Jacob953
+- [ ] JavaScript - @Rick Lin
 
 ## Content
 
