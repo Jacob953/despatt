@@ -5,7 +5,7 @@ type Observer interface {
 }
 
 type Observable interface {
-	addObserver()
-	removeObserver()
+	addObserver(Observer)
+	removeObserver(Observer)
 	notifyObservers()
 }
