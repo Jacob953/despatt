@@ -19,9 +19,19 @@ Despatt 主要参考 [《人人皆知设计模式：如何从日常生活中理�
 - 基本设计模式的推导，以及重要且通用的编程机制
 - 来自 [罗伟富](https://github.com/luoweifu) 的设计原则、设计模式、项目重构的经验和看法
 
+更重要的是，我建议你在阅读整个内容之前，根据你的语言，阅读一些特定的文章：
+- Go
+  - 简例模式
+  - 工厂模式
+  - 策略模式
+  - 模块模式
+  - 代理模式
+  - 选项模式
+
 欢迎为 Despatt 贡献不同编程语言的实现，例如 Java、C++、Rust、JavaScript 和 ...
 - [x] Python(默认) - [luoweifu/PyDesignPattern](https://github.com/luoweifu/PyDesignPattern)
-- [ ] Golang
+- [ ] Go - @Jacob953
+- [ ] JavaScript - @Rick Lin
 
 ## 内容
 
@@ -31,13 +41,13 @@ Despatt 主要参考 [《人人皆知设计模式：如何从日常生活中理�
 
 ## 贡献
 
-<p align="center"><b>请在直接拉取请求之前提出您的 issue ！</b></p>
+<p align="center"><b>请在直接 PR 之前提出您的 issue ！</b></p>
 
 欢迎贡献，包括但不限于以下形式：
 
 1. 翻译成另一种语言
 2. 添加新的编程语言
-3. 修正拼写错误或 UML
+3. 修正错别字或错误
 4. 告诉我你的期望
 5. ……
 
