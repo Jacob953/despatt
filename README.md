@@ -2,7 +2,7 @@
 
 > Vernacular Design Patterns 28 Lectures implement by Go
 
-English | [简体中文](README-zh.md)
+English | [简体中文](/global/README-zh.md)
 
 - [Despatt](#despatt)
   - [1 Introduction](#1-introduction)
