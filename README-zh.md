@@ -34,6 +34,7 @@ Despatt 主要参考 [《人人皆知设计模式：如何从日常生活中理�
 - [x] Python(默认) - [luoweifu/PyDesignPattern](https://github.com/luoweifu/PyDesignPattern)
 - [ ] Go - @Jacob953
 - [ ] JavaScript - @Rick Lin
+- [ ] Cpp - @Devote
 
 ## 内容
 
