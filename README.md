@@ -34,6 +34,7 @@ Welcome to contribute Despatt with implements of different programming languages
 - [x] Python(default) - [luoweifu/PyDesignPattern](https://github.com/luoweifu/PyDesignPattern)
 - [ ] Go - @Jacob953
 - [ ] JavaScript - @Rick Lin
+- [ ] Cpp - @Devote
 
 ## 2 Content
 
