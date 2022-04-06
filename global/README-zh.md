@@ -2,7 +2,7 @@
 
 > Go 实现白话设计模式 28 讲
 
-[English](README.md) | 简体中文
+[English](/README.md) | 简体中文
 
 - [Despatt](#despatt)
   - [介绍](#介绍)
