@@ -7,6 +7,8 @@
 - [Despatt](#despatt)
   - [介绍](#介绍)
   - [内容](#内容)
+    - [2.1 原创](#21-原创)
+    - [2.2 标准](#22-标准)
   - [贡献](#贡献)
   - [许可证](#许可证)
   - [联系](#联系)
@@ -32,12 +34,47 @@ Despatt 主要参考 [《人人皆知设计模式：如何从日常生活中理�
 - [x] Python(默认) - [luoweifu/PyDesignPattern](https://github.com/luoweifu/PyDesignPattern)
 - [ ] Go - @Jacob953
 - [ ] JavaScript - @Rick Lin
+- [ ] Cpp - @Devote
 
 ## 内容
 
-**基础篇**
 
-1. [监听模式：坑爹的热水器](global/basic/01-Observer.md)
+如果你是 [设计模式](https://en.wikipedia.org/wiki/Design_Patterns) 的新手，我建议你按照 [原创](#21-原创) 的目录来阅读。
+同样，你也可以按照GoF的 [标准](#22-standard) 方式找出你需要的东西。
+
+### 2.1 原创
+
+1. [观察者](global/01-observer/README.md)
+2. [适配器](global/02-adapter/README.md)
+3. [状态](global/03-state/README.md)
+4. [单例](global/04-singleton/README.md)
+5. [责任](global/05-responsibility/README.md)
+6. [调解器](global/06-mediator/README.md)
+7. [代理](global/07-proxy/README.md)
+8. [装饰器](global/08-decorator/README.md)
+9. [工厂](global/09-factory/README.md)
+10. [迭代器](global/10-iterator/README.md)
+
+### 2.2 标准
+
+**创造型**
+
+- [工厂](global/09-factory/README.md)
+- [单例](global/04-singleton/README.md)
+
+**结构性**
+
+- [适配器](global/02-adapter/README.md)
+- [装饰器](global/08-decorator/README.md)
+- [代理](global/07-proxy/README.md)
+
+**行为**
+
+- [责任](global/05-responsibility/README.md)
+- [迭代器](global/10-iterator/README.md)
+- [调解器](global/06-mediator/README.md)
+- [观察者](global/01-observer/README.md)
+- [状态](global/03-state/README.md)
 
 ## 贡献
 
