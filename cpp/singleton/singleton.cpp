@@ -100,4 +100,3 @@ Object *SingletonDecorator::wrapperSingleton(const std::string class_name) {
     }
     return __instances[class_name];
 }
-
