@@ -1,4 +1,4 @@
 
 PROJECT(singleton)
 
-ADD_EXECUTABLE(${PROJECT_NAME} singleton.cpp)
+ADD_EXECUTABLE(${PROJECT_NAME} Test.cpp singleton.cpp singleton.h)
