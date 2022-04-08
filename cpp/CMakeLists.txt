@@ -5,7 +5,5 @@ PROJECT(despatt)
 SET(CMAKE_CXX_STANDARD 11)
 
 ADD_SUBDIRECTORY(singleton)
-<<<<<<< HEAD
 ADD_SUBDIRECTORY(factory)
-=======
->>>>>>> 69b901c4cb47cffd6e4c0bfdf693624a3afed3b3
+
