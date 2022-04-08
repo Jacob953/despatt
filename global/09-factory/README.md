@@ -80,7 +80,7 @@ class Coffeemaker:
             coffee = Coffee()
         return coffee
 ```
-    
+
 
 测试代码：
 ```Python
@@ -90,14 +90,14 @@ class Coffeemaker:
         mocha = Coffeemaker.makeCoffee("摩卡风味咖啡豆")
         print(mocha.getName(), "已为您准备好了，口感：" + mocha.getTaste() + "请慢慢享用！")
 ```
-    
+
 
 输出结果：
 ```
     拿铁咖啡 已为您准备好了，口感：轻柔而香醇。请慢慢享用！
     摩卡咖啡 已为您准备好了，口感：丝滑与醇厚。请慢慢享用！
-```    
-    
+```
+
 
 ### 从剧情中思考工厂模式
 
@@ -223,7 +223,7 @@ class PenFactory:
             self.__pens[penType] = pen
         # 否则直接返回字典中的对象
         return self.__pens[penType]
-```    
+```
 
 测试代码：
 ```Python
@@ -237,8 +237,8 @@ def testPenFactory():
     print("创建了 %s，对象id：%s， 类型：%s" % (rectPen2.getName(), id(rectPen2), rectPen2.getType()) )
     ellipsePen = factory.createPen(PenType.PenTypeEllipse)
     print("创建了 %s，对象id：%s， 类型：%s" % (ellipsePen.getName(), id(ellipsePen), ellipsePen.getType()) )
-```    
-    
+```
+
 
 输出结果
 ```
@@ -246,7 +246,7 @@ def testPenFactory():
 创建了 矩形画笔，对象id：61077936， 类型：PenType.PenTypeRect
 创建了 矩形画笔，对象id：61077936， 类型：PenType.PenTypeRect
 创建了 椭圆画笔，对象id：61077904， 类型：PenType.PenTypeEllipse
-```    
+```
 
 看到了吗？在上面的 Demo 中，我们 Create 了两次矩形画笔的对象 rectPen 和 rectPen2，但这两个变量指向的是同一个对象，因为对象的 ID 是一样的，说明通过这种方式我们实现了每一个类型只创建一个对象。
 
