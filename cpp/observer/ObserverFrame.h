@@ -20,7 +20,7 @@ namespace observerframe{
     /**
      * Tips:
      *      This is a real frame that can use in c++ project, but it also has a lot of defects, if you have any question of suggestion
-     *      please contact me on github,or email: 2058084624@qq.com to me, i am look forward to head you!
+     *      please contact me by github,or email: 2058084624@qq.com, i am looking forward to head you!
      * UML:
      *                  Observable
      * + string __name                              |           class name
