@@ -26,8 +26,8 @@ namespace observerframe{
      * + string __name                              |           class name
      * + vector<Observer*> __observers              |           list of observers
      * ----------------------
-     * + bool addObserver(Observer *&observer)      |           append observer, if observer has in list, return false, else return true
-     * + bool removeObserver(Observer *&observer)   |           remove observer, if remove it, return true, else return false
+     * + void addObserver(Observer *&observer)      |           append observer, if observer has in list, return false, else return true
+     * + void removeObserver(Observer *&observer)   |           remove observer, if remove it, return true, else return false
      * + void notifyObservers(void* object = NULL)  |           notify observer
      * + string myName()                            |           return class name
      */
