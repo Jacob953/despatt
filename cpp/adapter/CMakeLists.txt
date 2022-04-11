@@ -1,0 +1,5 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 3.21)
+
+PROJECT(adapter)
+
+ADD_EXECUTABLE(${PROJECT_NAME} Test.cpp Adapter.cpp Adapter.h)
