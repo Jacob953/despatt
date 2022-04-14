@@ -1,0 +1,7 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 3.21)
+
+PROJECT(responsibility)
+
+FILE(GLOB Comp *.cpp *.h)
+
+ADD_EXECUTABLE(${PROJECT_NAME} ${Comp})
