@@ -11,3 +11,4 @@ ADD_SUBDIRECTORY(adapter)
 ADD_SUBDIRECTORY(state)
 ADD_SUBDIRECTORY(responsibility)
 ADD_SUBDIRECTORY(mediator)
+
