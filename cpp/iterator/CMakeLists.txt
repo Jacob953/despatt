@@ -1,0 +1,5 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 3.20)
+
+PROJECT(iterator)
+
+ADD_EXECUTABLE(${PROJECT_NAME} Test.cpp Iterator.cpp Iterator.h)
